@@ -1,4 +1,4 @@
-"""Entry kappagone module.
+"""Entry kappagone package.
 
 Contains meta and project related constants for use throughout the project.
 """
